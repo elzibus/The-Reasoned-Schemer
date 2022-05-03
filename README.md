@@ -6,5 +6,5 @@ The microKanren implementation is taken from: https://github.com/TheReasonedSche
 
 This repository contains simple examples of microKanren which re-implement some code taken from:
 
-# SICP ( https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html ). Programming book which uses scheme and covers some logic programming.
-# "Clause and Effect" ( https://rd.springer.com/book/10.1007/978-3-642-58274-5 ). Prolog programming book.
+1. SICP ( https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html ). Classic programming book (which uses scheme) and covers some logic programming.
+2. "Clause and Effect" ( https://rd.springer.com/book/10.1007/978-3-642-58274-5 ). Prolog programming book.
